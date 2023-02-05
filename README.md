@@ -1,4 +1,4 @@
-# rubyonrails
+# Ruby on Rails
 Ruby on Rails Documentation
 
 To install Ruby in a Windows machine, go to rubyinstaller.org and and download the latest Ruby Devkit. At the end of the installation process make sure to have 'Run 'rdk install' to setup MSYS2 and development toolchain' option checked. The Command Prompt window will ask you 3 options to install. Simply hit "Enter" to install all of them. Afer the installtion is finished, close the window and open the Command Prompt or Window Powershell. The installation includes components for Ruby and installation kit for rails. 
