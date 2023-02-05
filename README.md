@@ -43,7 +43,7 @@ rails-html-sanitizer (1.5.0)
 ```
 
 Create a new rails application with the following command
-```
+```shell
 > rails new test_app
 > cd test_app
 > rails server
