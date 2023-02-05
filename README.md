@@ -44,12 +44,12 @@ rails-html-sanitizer (1.5.0)
 
 Create a new rails application with the following command
 ```
-rails new test_app
-cd test_app
-rails server
+> rails new test_app
+> cd test_app
+> rails server
 ```
 
-Navigate to the URL of localhost:3000 and see the server image.
+Navigate to the URL of http://localhost:3000 and see the server image.
 
 
 
